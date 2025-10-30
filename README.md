@@ -26,6 +26,4 @@
 * Website: [psypad.net](https://psypad.net/)
 * LinkedIn: [linkedin.com/in/GoodSir](#)
 
----
-
 
