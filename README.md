@@ -16,3 +16,5 @@
 ### Find me
 
 * Website: [psypad.net](https://psypad.net/)
+* LinkedIn:
+* Twitter:
